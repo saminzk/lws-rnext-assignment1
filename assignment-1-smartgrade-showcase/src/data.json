@@ -1,0 +1,154 @@
+{
+  "classes": [
+    {
+      "class_id": 1,
+      "students": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "Scores": "A+",
+          "percentage": 92.5,
+          "gender": "M"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "Scores": "A",
+          "percentage": 85.0,
+          "gender": "F"
+        },
+        {
+          "id": 3,
+          "name": "Bob Johnson",
+          "Scores": "A+",
+          "percentage": 97.8,
+          "gender": "M"
+        },
+        {
+          "id": 4,
+          "name": "Alice Williams",
+          "Scores": "B+",
+          "percentage": 78.2,
+          "gender": "F"
+        },
+        {
+          "id": 5,
+          "name": "Charlie Brown",
+          "Scores": "A+",
+          "percentage": 91.0,
+          "gender": "M"
+        },
+        {
+          "id": 6,
+          "name": "Eva Davis",
+          "Scores": "B+",
+          "percentage": 72.5,
+          "gender": "F"
+        },
+        {
+          "id": 7,
+          "name": "Frank Wilson",
+          "Scores": "A",
+          "percentage": 89.3,
+          "gender": "M"
+        },
+        {
+          "id": 8,
+          "name": "Grace Miller",
+          "Scores": "A",
+          "percentage": 88.1,
+          "gender": "F"
+        },
+        {
+          "id": 9,
+          "name": "Henry Martinez",
+          "Scores": "A+",
+          "percentage": 94.6,
+          "gender": "M"
+        },
+        {
+          "id": 10,
+          "name": "Ivy Robinson",
+          "Scores": "C",
+          "percentage": 65.4,
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "class_id": 2,
+      "students": [
+        {
+          "id": 1,
+          "name": "Sophie Taylor",
+          "Scores": "A",
+          "percentage": 89.4,
+          "gender": "F"
+        },
+        {
+          "id": 2,
+          "name": "William Clark",
+          "Scores": "A",
+          "percentage": 87.0,
+          "gender": "M"
+        },
+        {
+          "id": 3,
+          "name": "Grace Johnson",
+          "Scores": "A+",
+          "percentage": 92.3,
+          "gender": "F"
+        },
+        {
+          "id": 4,
+          "name": "Elijah Smith",
+          "Scores": "B+",
+          "percentage": 75.8,
+          "gender": "M"
+        },
+        {
+          "id": 5,
+          "name": "Ava White",
+          "Scores": "A+",
+          "percentage": 97.2,
+          "gender": "F"
+        },
+        {
+          "id": 6,
+          "name": "James Robinson",
+          "Scores": "B+",
+          "percentage": 71.5,
+          "gender": "M"
+        },
+        {
+          "id": 7,
+          "name": "Emma Wilson",
+          "Scores": "A",
+          "percentage": 88.9,
+          "gender": "F"
+        },
+        {
+          "id": 8,
+          "name": "Oliver Davis",
+          "Scores": "A+",
+          "percentage": 94.5,
+          "gender": "M"
+        },
+        {
+          "id": 9,
+          "name": "Charlotte Miller",
+          "Scores": "A",
+          "percentage": 88.3,
+          "gender": "F"
+        },
+        {
+          "id": 10,
+          "name": "Henry Brown",
+          "Scores": "C",
+          "percentage": 69.7,
+          "gender": "M"
+        }
+      ]
+    }
+  ]
+}
